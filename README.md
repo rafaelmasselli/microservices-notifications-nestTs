@@ -99,7 +99,7 @@ $ npm test
 
 ![Resultado das notificações](/.github/result-notifications.png)
 
-### Visualizando quantas notificações um usuario tem de um determinado tema/ID, na porta <http://localhost:3002/notifications/count/from/21dbfb36-0e16-425a-be29-3037d45053b2>
+### Visualizando quantas notificações um usuario tem de um determinado tema/ID, na porta <http://localhost:3000/notifications/count/from/21dbfb36-0e16-425a-be29-3037d45053b2>
 
 #### Retorno
 
