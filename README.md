@@ -105,6 +105,6 @@ $ npm test
 
 ```bash
 {
-    "count": 9
+    "count": 10
 }
 ```
